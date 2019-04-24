@@ -6,8 +6,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Muhammad Afiq Abd Rashid
 title: Software Engineer
 email: muhdafiq1107@gmail.com
-phone: 017
-website: afiqabdrashid.github.io
+phone: null
+website: null
 
 # Social links
 twitter_username: jekyllrb
