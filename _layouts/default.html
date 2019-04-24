@@ -2,7 +2,7 @@
 <html lang="{{ page.lang | default: site.lang | default: " en " }}">
 
 {%- include head.html -%}
-{%- include head.html -%}
+
 
 <body>
 
@@ -12,6 +12,7 @@
     <div class="wrapper">
 
       {%- include about.html -%}
+      {%- include head.html -%}
 
       {%- if site.data.projects.size > 0 -%}
         {%- include projects.html -%}
