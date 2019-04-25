@@ -20,11 +20,13 @@
         {% endfor %}
       </div>
       <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
+        {{ experience.description | strip | markdownify }}
+        {{ experience.description2 | strip | markdownify }}
+        <!--
         {%- if experience.quote -%}
           <p class="quote">{{ experience.quote }}</p>
         {%- endif -%}
-        {{ experience.description | strip | markdownify }}
-        {{ experience.description2 | strip | markdownify }}
+        -->
       </div>
     </div>
   {% endfor %}
