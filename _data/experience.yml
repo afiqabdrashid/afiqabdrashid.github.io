@@ -6,8 +6,8 @@
   quote: >
    null
   description: | # this will include new lines to allow paragraphs
-    Support software development in application layer for radio communication device. Handle
+    - Support software development in application layer for radio communication device. Handle
     interaction between common layer, low level, connectivity and application
   description2: | # this will include new lines to allow paragraphs
-    Perform detailed root cause analysis for any software issue and implement complete solution for
+    - Perform detailed root cause analysis for any software issue and implement complete solution for
     review and integration process
