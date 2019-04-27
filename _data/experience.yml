@@ -5,12 +5,13 @@
   dates: (March 2017 - present)
   quote: >
    null
-  description: | # this will include new lines to allow paragraphs
-    - Support software development in application layer for radio communication device. Handle
-    interaction between common layer, low level, connectivity and application
-  description2: | # this will include new lines to allow paragraphs
-    - Perform detailed root cause analysis for any software issue and implement complete solution for
-    review and integration process
+  
+   description: | # this will include new lines to allow paragraphs
+    - Support software development in application layer for radio communication device. Handle interaction between common layer, low level, 
+      connectivity and application
+  
+    description2: | # this will include new lines to allow paragraphs
+    - Perform detailed root cause analysis for any software issue and implement complete solution for review and integration process
 
 # Experience template
 - company: MI Equipment Sdn Bhd
@@ -21,15 +22,7 @@
    null
   description: | # this will include new lines to allow paragraphs
     - Support software development in application layer and machine logic sequence for high speed die inspection machine
-  
-  description2: | # this will include new lines to allow paragraphs
     - Develop and modify software system which involve multithreading application for multiple axis automated machine modules
-
-  description3: | # this will include new lines to allow paragraphs
     - Implement robust machine sequence that able to handle multiple inspection scenarios
-
-  description4: | # this will include new lines to allow paragraphs
     - Design intuitive machine user interface using Windows form application that focus on customer requests - simple, meaningful and easy to use
-
-  description5: | # this will include new lines to allow paragraphs
-    - Utilized ':' C/C++ Programming, C#, .Net, SQL, Microsoft Visual Studio, RTX
+    - Utilized = C/C++ Programming, C#, dot Net, SQL, Microsoft Visual Studio, RTX
