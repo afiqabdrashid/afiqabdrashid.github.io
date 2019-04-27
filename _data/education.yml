@@ -1,11 +1,12 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+- name: Universiti Teknologi PETRONAS
+  dates: 2010 - 2015
+  qualification: Bachelor of Engineering (Hons). Mechanical Engineering
   quote: >
-    Short institution or course description (optional)
+    Empty
   description: | # this will include new lines to allow paragraphs
-    Description of qualification 
+    Final Year Project - Oil Demand Forecasting Using Artificial Neural Network
+    - Develop and write script for energy forecasting model using MATLAB and SPSS
 
 # Education Template
 - name: Institution name
